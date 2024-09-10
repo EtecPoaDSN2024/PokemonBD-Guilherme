@@ -1,0 +1,10 @@
+O artigo explica as funções do Modelo Entidade-Relacionamento (MER) e do Diagrama Entidade-Relacionamento (DER) na modelagem de dados. O MER é uma técnica utilizada para identificar e representar entidades e seus relacionamentos em um sistema, enquanto o DER é a representação gráfica desse modelo.
+Modelo Entidade-Relacionamento (MER):
+•	Entidades: Representam objetos ou conceitos no sistema, como clientes ou produtos.
+•	Relacionamentos: Definem como as entidades estão associadas entre si.
+•	Atributos: Características ou propriedades das entidades e relacionamentos.
+Diagrama Entidade-Relacionamento (DER):
+•	Representação Gráfica: O DER ilustra visualmente as entidades, seus atributos e os relacionamentos entre elas.
+•	Facilidade de Compreensão: A visualização ajuda a entender e comunicar a estrutura do banco de dados.
+O artigo também discute como o MER e o DER são utilizados para criar uma base sólida para o desenvolvimento de um banco de dados eficiente, 
+garantindo que todos os requisitos do sistema sejam atendidos e que os dados sejam organizados de forma lógica e acessível.
