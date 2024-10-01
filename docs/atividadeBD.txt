@@ -1,0 +1,16 @@
+1)
+Um atributo ou grupo de atributos que identifica
+de maneira exclusiva cada registro em uma tabela
+de um banco de dados é conhecido como chave primária, 
+ela assegura que não existam registros duplicados e que c
+ada entrada seja acessível de forma eficaz.
+2)
+A utilização do CPF como chave primária não é recomendada, 
+pois trata-se de uma informação sensível, pode necessitar de ajustes,
+possui formatação inconsistente e existem opções mais seguras,
+como IDs gerados de forma automática. Deve-se manter o CPF como um campo distinto.
+3)
+Um campo em uma tabela que faz referência à chave primária
+de outra tabela é conhecido como chave estrangeira,
+ela preserva a integridade referencial, assegurando a consistência dos dados 
+relacionados.
